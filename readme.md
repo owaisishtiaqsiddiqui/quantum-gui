@@ -33,13 +33,20 @@ cd tests
 Use the unittest module to discover and run the test files:
 
 python -m unittest discover
+or
+python -m unittest discover -s <path_to_tests> -p "test_*.py"
 
 This will automatically discover and run all test files (e.g., test_quantum.py, test_gui.py) in the tests directory.
 
 3. Run a Specific Test File
 To run a specific test file, use:
 
-python -m unittest [test_quantum.py]
+python -m unittest [test_quantum.py] (Remove the brackets "[]" when executing the command)
+
+4. Run Tests from Anywhere:
+
+If you want to run the tests without navigating to the tests directory, provide the full path to the test file:
+python -m unittest [provide file path of test.py]
 
 ## Additional Info:
 1. Make sure that the virtual environment is activated before running the tests.
