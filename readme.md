@@ -1,6 +1,6 @@
 # Quantum GUI
 
-![Quantum GUI Screenshot](assets/Pak_Sim.png)
+![Quantum GUI](Pak_Sim.png)
 
 This project provides a graphical user interface (GUI) for simulating quantum circuits using Qiskit.
 
