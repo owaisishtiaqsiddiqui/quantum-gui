@@ -39,7 +39,7 @@ This will automatically discover and run all test files (e.g., test_quantum.py, 
 3. Run a Specific Test File
 To run a specific test file, use:
 
-python -m unittest [test_quantum.py](http://_vscodecontentref_/0)
+python -m unittest [test_quantum.py]
 
 ## Additional Info:
 1. Make sure that the virtual environment is activated before running the tests.
