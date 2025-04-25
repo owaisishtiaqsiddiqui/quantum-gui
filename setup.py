@@ -33,4 +33,5 @@ setup(
         #"sphinxcontrib-htmlhelp",
         #"sphinxcontrib-jsmath",
     ],
+    license="License.lic"
 )
