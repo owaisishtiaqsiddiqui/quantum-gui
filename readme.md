@@ -11,7 +11,7 @@ This project provides a graphical user interface (GUI) for simulating quantum ci
 ![GitHub issues](https://img.shields.io/github/issues/owaisishtiaqsiddiqui/quantum-gui)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/owaisishtiaqsiddiqui/quantum-gui)
 ![GitHub license](https://img.shields.io/github/license/owaisishtiaqsiddiqui/quantum-gui)
-
+![Custom License](https://img.shields.io/badge/license-custom-blue)
 
 
 ## **Setting Up the Environment**
