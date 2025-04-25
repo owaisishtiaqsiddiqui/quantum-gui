@@ -6,8 +6,8 @@ This project provides a graphical user interface (GUI) for simulating quantum ci
 
 ---
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/<panther>/<quantum-gui>)
-![GitHub All Releases](https://img.shields.io/github/downloads/<panther>/<quantum-gui>/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/<Panther>/<quantum-gui>)
+![GitHub All Releases](https://img.shields.io/github/downloads/<Panther>/<quantum-gui>/total)
 
 
 ## **Setting Up the Environment**
