@@ -6,7 +6,7 @@ This project provides a graphical user interface (GUI) for simulating quantum ci
 
 ---
 
-![Pak_Sim v0.1])](https://img.shields.io/github/v/release/<Panther>/<quantum-gui>)
+![GitHub release](https://img.shields.io/github/v/release/<Panther>/<quantum-gui>)
 ![GitHub All Releases](https://img.shields.io/github/downloads/<Panther>/<quantum-gui>/total)
 
 
